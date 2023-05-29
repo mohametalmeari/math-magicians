@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="images\large_logo.png" alt="logo" width="140"  height="auto" />
+  <img src=".\src\images\large_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Math Magicians README</b></h3>
