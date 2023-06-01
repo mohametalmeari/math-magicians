@@ -1,19 +1,16 @@
-.conlog {
-  position: fixed;
-  right: 0;
-  top: 0;
-}
+
 .container {
   display: flex;
   flex-direction: column;
   max-width: 50%;
+  aspect-ratio: 5/4;
 }
 
 .calc-pad {
   display: grid;
   grid-template-columns: auto auto auto auto;
-  aspect-ratio: 3/2;
   border: solid gray 1px;
+  flex: 10;
 }
 
 .calc-pad * {
@@ -22,6 +19,7 @@
   align-items: center;
   justify-content: center;
   background-color: white;
+  font-weight: bolder;
 }
 
 .operator {
