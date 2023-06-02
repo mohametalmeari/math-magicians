@@ -7,7 +7,6 @@ const Quote = () => {
   const [isLoading, setIsLoading] = useState(false);
 
   const Reload = () => {
-    console.log('run');
     const fetchData = async () => {
       try {
         setIsLoading(true);
