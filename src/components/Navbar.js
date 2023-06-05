@@ -8,7 +8,9 @@ const links = [
 const Navbar = () => (
   <nav>
     <h1>
-      Math Magicians
+      <NavLink to="/">
+        Math Magicians
+      </NavLink>
     </h1>
     <ul className="menu">
       {links.map((link) => (

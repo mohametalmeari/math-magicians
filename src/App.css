@@ -23,6 +23,11 @@ h1 {
   flex: 3;
 }
 
+h1 > * {
+  text-decoration: none;
+  color: black;
+}
+
 .menu {
   display: flex;
   list-style-type: none;
