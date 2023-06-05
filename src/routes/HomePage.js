@@ -3,7 +3,7 @@ const HomePage = () => (
     <h2>
       Welcome to our page!
     </h2>
-    <p>
+    <p className="home-text">
       This website is a simple calculator that can perform basic math
       operations, including addition, subtraction, multiplication,
       division, and modulo. Additionally, the website features a
