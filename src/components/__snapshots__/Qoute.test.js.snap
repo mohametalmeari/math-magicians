@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator Component test render of calculator page 1`] = `
+<div>
+  <div
+    class="msg"
+  >
+    Loading...
+  </div>
+</div>
+`;
+
+exports[`Calculator Component test render of qoute page 1`] = `
+<div>
+  <div
+    class="msg"
+  >
+    Loading...
+  </div>
+</div>
+`;
+
+exports[`Qoute Component test render of qoute page 1`] = `
+<div>
+  <div
+    class="msg"
+  >
+    Loading...
+  </div>
+</div>
+`;
