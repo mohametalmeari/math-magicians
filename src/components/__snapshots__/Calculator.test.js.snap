@@ -1,0 +1,319 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator Component renders without errors 1`] = `
+<div>
+  <div
+    class="calculator-container"
+  >
+    <p
+      class="calculator-text"
+    >
+      Let's do some math!
+    </p>
+    <div
+      class="calculator"
+    >
+      <p
+        class="result"
+      />
+      <div
+        class="calc-pad"
+        role="presentation"
+      >
+        <button
+          class="AC"
+          type="button"
+          value="AC"
+        >
+          AC
+        </button>
+        <button
+          class="sign"
+          type="button"
+          value="+/-"
+        >
+          +/-
+        </button>
+        <button
+          class="percent"
+          type="button"
+          value="%"
+        >
+          %
+        </button>
+        <button
+          class="operator division"
+          type="button"
+          value="÷"
+        >
+          ÷
+        </button>
+        <button
+          class="num num7"
+          type="button"
+          value="7"
+        >
+          7
+        </button>
+        <button
+          class="num num8"
+          type="button"
+          value="8"
+        >
+          8
+        </button>
+        <button
+          class="num num9"
+          type="button"
+          value="9"
+        >
+          9
+        </button>
+        <button
+          class="operator multiplication"
+          type="button"
+          value="x"
+        >
+          ×
+        </button>
+        <button
+          class="num num4"
+          type="button"
+          value="4"
+        >
+          4
+        </button>
+        <button
+          class="num num5"
+          type="button"
+          value="5"
+        >
+          5
+        </button>
+        <button
+          class="num num6"
+          type="button"
+          value="6"
+        >
+          6
+        </button>
+        <button
+          class="operator subtraction"
+          type="button"
+          value="-"
+        >
+          -
+        </button>
+        <button
+          class="num num1"
+          type="button"
+          value="1"
+        >
+          1
+        </button>
+        <button
+          class="num num2"
+          type="button"
+          value="2"
+        >
+          2
+        </button>
+        <button
+          class="num num3"
+          type="button"
+          value="3"
+        >
+          3
+        </button>
+        <button
+          class="operator Addition"
+          type="button"
+          value="+"
+        >
+          +
+        </button>
+        <button
+          class="num num0"
+          type="button"
+          value="0"
+        >
+          0
+        </button>
+        <button
+          class="num decimal"
+          type="button"
+          value="."
+        >
+          .
+        </button>
+        <button
+          class="operator equal"
+          type="button"
+          value="="
+        >
+          =
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Calculator Component test render of calculator page 1`] = `
+<div>
+  <div
+    class="calculator-container"
+  >
+    <p
+      class="calculator-text"
+    >
+      Let's do some math!
+    </p>
+    <div
+      class="calculator"
+    >
+      <p
+        class="result"
+      />
+      <div
+        class="calc-pad"
+        role="presentation"
+      >
+        <button
+          class="AC"
+          type="button"
+          value="AC"
+        >
+          AC
+        </button>
+        <button
+          class="sign"
+          type="button"
+          value="+/-"
+        >
+          +/-
+        </button>
+        <button
+          class="percent"
+          type="button"
+          value="%"
+        >
+          %
+        </button>
+        <button
+          class="operator division"
+          type="button"
+          value="÷"
+        >
+          ÷
+        </button>
+        <button
+          class="num num7"
+          type="button"
+          value="7"
+        >
+          7
+        </button>
+        <button
+          class="num num8"
+          type="button"
+          value="8"
+        >
+          8
+        </button>
+        <button
+          class="num num9"
+          type="button"
+          value="9"
+        >
+          9
+        </button>
+        <button
+          class="operator multiplication"
+          type="button"
+          value="x"
+        >
+          ×
+        </button>
+        <button
+          class="num num4"
+          type="button"
+          value="4"
+        >
+          4
+        </button>
+        <button
+          class="num num5"
+          type="button"
+          value="5"
+        >
+          5
+        </button>
+        <button
+          class="num num6"
+          type="button"
+          value="6"
+        >
+          6
+        </button>
+        <button
+          class="operator subtraction"
+          type="button"
+          value="-"
+        >
+          -
+        </button>
+        <button
+          class="num num1"
+          type="button"
+          value="1"
+        >
+          1
+        </button>
+        <button
+          class="num num2"
+          type="button"
+          value="2"
+        >
+          2
+        </button>
+        <button
+          class="num num3"
+          type="button"
+          value="3"
+        >
+          3
+        </button>
+        <button
+          class="operator Addition"
+          type="button"
+          value="+"
+        >
+          +
+        </button>
+        <button
+          class="num num0"
+          type="button"
+          value="0"
+        >
+          0
+        </button>
+        <button
+          class="num decimal"
+          type="button"
+          value="."
+        >
+          .
+        </button>
+        <button
+          class="operator equal"
+          type="button"
+          value="="
+        >
+          =
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
