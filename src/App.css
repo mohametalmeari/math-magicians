@@ -6,6 +6,43 @@
   font-family: 'Baumans', sans-serif;
 }
 
+body {
+  padding: 1rem 4rem;
+}
+
+nav {
+  display: flex;
+  align-items: baseline;
+  flex-direction: row;
+  flex: 1;
+}
+
+h1 {
+  font-size: xx-large;
+  flex: 3;
+}
+
+.menu {
+  display: flex;
+  list-style-type: none;
+  gap: 2rem;
+}
+
+.page-link > * {
+  text-decoration: none;
+  color: black;
+  font-size: large;
+}
+
+.page-link {
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+.page-link:hover {
+  background-color: lightgrey;
+}
+
 .container {
   display: flex;
   flex-direction: column;
@@ -23,16 +60,6 @@ main {
 header {
   display: flex;
   flex-direction: row;
-}
-
-h1 {
-  flex: 3;
-}
-
-nav {
-  display: flex;
-  flex-direction: row;
-  flex: 1;
 }
 
 .nav-link {
