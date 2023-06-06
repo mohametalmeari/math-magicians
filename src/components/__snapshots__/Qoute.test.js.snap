@@ -29,3 +29,13 @@ exports[`Qoute Component test render of qoute page 1`] = `
   </div>
 </div>
 `;
+
+exports[`Quote Component test render of quote page 1`] = `
+<div>
+  <div
+    class="msg"
+  >
+    Loading...
+  </div>
+</div>
+`;
