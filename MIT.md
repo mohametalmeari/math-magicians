@@ -1,4 +1,4 @@
-## Copyright 2023, Mohamad Mari
+## Copyright 2023, Mohamad Almeari
 
 ###### APP TYPE can be a webpage/website, a web app, a software and so on
 
