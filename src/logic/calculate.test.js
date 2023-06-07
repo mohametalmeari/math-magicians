@@ -96,4 +96,32 @@ describe('Calculate Functionality', () => {
     };
     expect(received.next).toEqual(result.next);
   });
+  test('test +/- button for negative values', () => {
+    const obj = {
+      total: '20',
+      next: '-6',
+      operation: '+',
+    };
+    const received = calculate(obj, '+/-');
+    const result = {
+      total: '20',
+      next: '6',
+      operation: '+',
+    };
+    expect(received.next).toEqual(result.next);
+  });
+  test('test +/- button for the Total', () => {
+    const obj = {
+      total: '-20',
+      next: null,
+      operation: '+',
+    };
+    const received = calculate(obj, '+/-');
+    const result = {
+      total: '20',
+      next: null,
+      operation: '+',
+    };
+    expect(received.next).toEqual(result.next);
+  });
 });
