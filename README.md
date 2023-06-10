@@ -68,9 +68,11 @@ Includes the following features...
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Open the link bellow:
+> Open either of the links bellow:
 
- - [Live Demo Link](https://mohametalmeari.github.io/math-magicians)
+ - [Live Demo Link on GitHub Pages](https://mohametalmeari.github.io/math-magicians)
+ - [Live Demo Link on render.com](https://almeari-math-magicians.onrender.com/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
