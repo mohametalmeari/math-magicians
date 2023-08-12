@@ -109,7 +109,7 @@ To run tests, run the following command:
 
 ### Deployment
 
-You can deploy this project using GitHup Pages or Render.com
+You can deploy this project using GitHub Pages or Render.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
