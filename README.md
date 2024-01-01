@@ -61,7 +61,6 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
- - [Live Demo Link on GitHub Pages](https://mohametalmeari.github.io/math-magicians)
  - [Live Demo Link on render.com](https://almeari-math-magicians.onrender.com/)
 
 
