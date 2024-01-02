@@ -140,6 +140,16 @@ h1 > * {
 
 .refresh-btn {
   padding: 1rem;
+  align-self: flex-start;
+  border-radius: 0.5rem;
+  border: solid orange 1px;
+  background-color: orangered;
+  color: white;
+  font-size: larger;
+}
+
+.refresh-btn:hover {
+  background-color: lightsalmon;
 }
 
 .msg {
