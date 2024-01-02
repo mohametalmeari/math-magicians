@@ -36,7 +36,7 @@
 
 # 📖 Math Magicians <a name="about-project"></a>
 
-**Math Magicians**  is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations.
+**Math Magicians**  is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make basic calculations.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -52,8 +52,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Make simple calculations**
-- **Read a random math-related quote**
+- **Make basic calculations**
+- **Read math-related quotes**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,7 +61,6 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
- - [Live Demo Link on GitHub Pages](https://mohametalmeari.github.io/math-magicians)
  - [Live Demo Link on render.com](https://almeari-math-magicians.onrender.com/)
 
 
@@ -72,7 +71,6 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
-
 
 ### Prerequisites
 
@@ -109,7 +107,7 @@ To run tests, run the following command:
 
 ### Deployment
 
-You can deploy this project using GitHup Pages or Render.com
+This project is deployed on Render.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,7 +149,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-We invite you to share this project with others and provide a favorable review if you find it to be useful.
+I invite you to share this project with others and provide a favorable review if you find it to be useful.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
